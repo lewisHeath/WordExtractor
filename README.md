@@ -5,6 +5,7 @@ Git clone
 ```
 git clone https://github.com/lewisHeath/WordExtractor.git
 cd WordExtractor
+pip3 install beautifulsoup4
 python3 wordextractor.py
 ```
 ## How to use
